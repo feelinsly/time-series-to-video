@@ -15,7 +15,7 @@ The code is writtend by Jianqiao Zhu and Hao Zhong, contributed by Xiao Ge.
 
 The code was built for data analysis in this paper: 
 
-Ge, X., Leifer, L., & Shui, L. (2021). Situated emotion and its constructive role in collaborative design: A mixed-method study of experienced designers. Design Studies, 75, 101020.
+Ge, X., Leifer, L., & Shui, L. (2021). Situated emotion and its constructive role in collaborative design: A mixed-method study of experienced designers. Design Studies, 75, 101020. https://www.sciencedirect.com/science/article/pii/S0142694X21000314 
 
 The example input data is from the above paper.
 
