@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/733839/139111896-459ec881-9764-4516-89
 
 
 # Source of example and code
-Author: Jianqiao ZHU, Hao ZHONG. Contributor: Xiao Ge
+The code is writtend by Jianqiao Zhu and Hao Zhong, contributed by Xiao Ge.
 
 The code was built for data analysis in this paper: 
 
