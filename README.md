@@ -22,8 +22,9 @@ The example input data is from the above paper.
 **Please cite if you were to use the code.
 
 # How to use the code:
-Simply change the csv file with the time-series data you want to visualize and animate; And then run this file in your terminal: run_vocal_pitch.sh to 
-The current example visualize a time-changing vocal pitch variable.
+Simply change the csv file with the time-series data you want to visualize and animate; And then run this file in your terminal: run_vocal_pitch.sh to render the video file.
+
+The current example visualize a time-changing **vocal pitch** variable of **speaker_A**.
 
 You can also adjust the chart type accordingly. 
 
