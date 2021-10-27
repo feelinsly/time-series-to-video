@@ -1,7 +1,8 @@
 # time-series-to-video
 The code converts time-series data into animated video, which enables a dynamic way of data presentation, augmented qualitative data anlysis and so on.
 
-i.e., The code turns this data
+For instance, the code turns this data:
+
 <img width="785" alt="Screen Shot 2021-10-27 at 9 59 00 AM" src="https://user-images.githubusercontent.com/733839/139112246-e04a0fdd-247c-4065-8d9e-446a8b2134e8.png">
 
 into a video that captures the dynamics of a time-changing variable:
